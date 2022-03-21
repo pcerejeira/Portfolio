@@ -4,7 +4,7 @@ This repository was made with the aim of showing some of the projects I've been 
 ## Project 1
 
 Covered mainly:
-- Database Queries
+- Database Queries (1.5T size)
 - Csv/Excel
 - Json
 - Pandas
