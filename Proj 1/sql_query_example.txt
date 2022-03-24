@@ -1,4 +1,4 @@
 select registered_at, battery_min_temperature, battery_max_temperature, dci_temperature, load_controller_igbt_temperature_1, load_controller_igbt_temperature_2, motor_controller_igbt_temperature
 from vehicle_raw_data
-where registered_at >= '2019-08-08' and registered_at < '2019-08-20' and imei = '357454073278952'
+where registered_at >= '2019-08-08' and registered_at < '2019-08-20' and imei = '123456789'
 order by registered_at asc
