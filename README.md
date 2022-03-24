@@ -17,3 +17,6 @@ Languages used:
 ### Goal
 The objective of this project was to cross the temperature of the batteries of a vehicle (provided by Addvolt), with the ambient temperature in the place where it circulated.
 Ideally, I would be able to prove in this way that the ambient temperature, even when reaching extremes (for example in the summer/winter), did not affect the efficiency of the batteries, since they did not exceed abnormal values.
+
+#### Note:
+For the given examples, a random data sample was generated, as company data cannot be shared.
