@@ -5,6 +5,7 @@ This repository was made with the aim of showing some of the projects I've been 
 
 Covered mainly:
 - Database Queries (1.5T size)
+- External API
 - Csv/Excel
 - Json
 - Pandas
@@ -21,3 +22,19 @@ Ideally, I would be able to prove that the ambient temperature, even when reachi
 
 #### Note:
 For the given examples, a random data sample was generated, as company data cannot be shared.
+
+## Project 2
+
+Covered mainly:
+- Pandas
+- Csv/Excel
+
+Languages used:
+- SQL
+- Python
+
+### Goal
+The goal of this project was to identify the locations (coordinates) in which our clients were stopping their vehicles more often, in order to provide them with new electric charging points.
+
+#### Note:
+This analysis was asked directly by Addvolt's CEO and required simple data querying, cleaning, aggregation and manipulation.
