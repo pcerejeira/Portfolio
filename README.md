@@ -1,4 +1,4 @@
-# Data-Analytics-Projects:
+# Data-Science-Projects:
 This repository was made with the aim of showing some of the projects I've been involved in, as well as the tools used and the thought process behind the solutions.
 
 ## Project 1
