@@ -176,7 +176,7 @@ def plot_controller_t(df, imei, controller):
     if (aux < df["hour"][len(df) - 1]):
         plt.axvspan(aux, df["time"][len(df) - 1], facecolor='0.6', alpha=0.5)
 
-def problem10(imei, resample_period, timestamp_start, timestamp_end, output_path='/temp'):
+def proj_1 (imei, resample_period, timestamp_start, timestamp_end, output_path='/temp'):
     df_all = pd.DataFrame()
     """
     Parameters for fetching data
