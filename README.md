@@ -3,8 +3,8 @@ This repository was made with the aim of showing some of the projects I've been 
 
 ## My projects:
 
-- [Project 1](https://github.com/pcerejeira/Data-Scientist-Portfolio/blob/main/Proj%201/README.md)
-- [Project 2](https://github.com/pcerejeira/Data-Scientist-Portfolio/blob/main/Proj%202/README.md)
+- [Project 1](https://github.com/pcerejeira/Data-Scientist-Portfolio/tree/main/Proj%201)
+- [Project 2](https://github.com/pcerejeira/Data-Scientist-Portfolio/tree/main/Proj%202)
 
 ## Languages and Tools:
 
