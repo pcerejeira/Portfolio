@@ -12,4 +12,4 @@ This repository was made with the aim of showing some of the projects I've been 
 
 ## Connect with me:
 
-[<img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="40" height="40">](https://www.linkedin.com/in/pedrocerejeira/)
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40">](https://www.linkedin.com/in/pedrocerejeira/)
