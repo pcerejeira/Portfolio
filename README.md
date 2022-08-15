@@ -13,20 +13,3 @@ This repository was made with the aim of showing some of the projects I've been 
 ## Connect with me:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/61/61109.png" width="40" height="40">](https://www.linkedin.com/in/pedrocerejeira/)
-
-## Project 2
-
-Covered mainly:
-- Database Queries
-- Pandas
-- Csv/Excel
-
-Languages used:
-- SQL
-- Python
-
-### Goal
-The goal of this project was to identify the locations (coordinates) where our clients were stopping their vehicles more often, in order to provide them with new electric charging points.
-
-#### Note:
-This analysis was asked directly by Addvolt's CEO and required simple data querying, cleaning, aggregation and manipulation.
