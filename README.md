@@ -12,12 +12,12 @@ Explore the various facets of my data science journey through the following sect
 
 - [Machine Learning](./machine-learning): Discover projects that demonstrate my expertise in machine learning, including classification, regression, clustering, and deep learning tasks.
 - [Metabase - Business Intelligence](./business-intelligence): Learn about my experience in leveraging Metabase for business intelligence purposes, creating interactive dashboards, and deriving insights from data.
-- [Data Analysis and Insights](./data-analysis-and-insights): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
+- [Data Analysis and Insights](./data-analysis): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
 - [AWS Projects](./aws): Explore my work involving Amazon Web Services (AWS), including data storage, data processing, and deploying scalable applications on the cloud.
 - [Database Management and Optimization](./database-management): Gain insights into my expertise in managing and optimizing databases, including SQL query optimization, performance tuning, and database administration.
 - [Frontend and UX Projects](./frontend-ux): Discover projects where I have collaborated on frontend development and user experience (UX) design, creating intuitive and visually appealing data-driven applications.
-- [Security, Vulnerability & Testing](./security-vulnerability-testing): Learn about my experience in conducting security assessments, identifying vulnerabilities, and implementing measures to enhance data security.
-- [State of Health and Battery Health Metrics](./SoH-battery-health): Explore my work related to monitoring and analyzing the state of health and battery health metrics in various applications and devices.
+- [Security, Vulnerability & Testing](./security-vulnerability-testing): Learn about my experience in conducting security assessments, identifying vulnerabilities, implementing measures to enhance data security, and performing comprehensive testing to ensure robustness and reliability.
+- [State of Health and Battery Health Metrics](./battery-health-SoH): Explore my work related to monitoring and analyzing the state of health and battery health metrics in various applications and devices.
 - [Grafana](./grafana): Discover projects showcasing my proficiency in building interactive dashboards and visualizations using Grafana.
 - [MLU Emulator](./mlu-emulator): Learn about my contributions to the MLU Emulator project, which involves emulating machine learning models on edge devices.
 
