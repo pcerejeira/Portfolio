@@ -17,7 +17,7 @@ Explore the various facets of my data science journey through the following sect
 - [Database Management and Optimization](./database-management): Gain insights into my expertise in managing and optimizing databases, including SQL query optimization, performance tuning, and database administration.
 - [Frontend and UX Projects](./frontend-ux): Discover projects where I have collaborated on frontend development and user experience (UX) design, creating intuitive and visually appealing data-driven applications.
 - [Security, Vulnerability & Testing](./security-vulnerability-testing): Learn about my experience in conducting security assessments, identifying vulnerabilities, and implementing measures to enhance data security.
-- [State of Health and Battery Health Metrics](./SoH-battery-health): Explore my work related to monitoring and analyzing the state of health and battery health metrics in various applications and devices.
+- [State of Health and Battery Health Metrics](./battery-health-SoH): Explore my work related to monitoring and analyzing the state of health and battery health metrics in various applications and devices.
 - [Grafana](./grafana): Discover projects showcasing my proficiency in building interactive dashboards and visualizations using Grafana.
 - [MLU Emulator](./mlu-emulator): Learn about my contributions to the MLU Emulator project, which involves emulating machine learning models on edge devices.
 
