@@ -21,18 +21,29 @@ Explore the various facets of my data science journey through the following sect
 - [Grafana](./grafana): Discover projects showcasing my proficiency in building interactive dashboards and visualizations using Grafana.
 - [MLU Emulator](./mlu-emulator): Learn about my contributions to the MLU Emulator project, which involves emulating machine learning models on edge devices.
 
-## Languages and Tools
+## Languages, Libraries and Tools
 
-Throughout my projects, I have worked with a diverse set of languages and tools. Some of the key ones include:
+Throughout my projects, I have worked with a diverse set of **languages** and **libraries**. Some of the key ones include:
 
 - Python
+- Pandas | Numpy | Matplotlib
+- TensorFlow
+- Celery
 - SQL (MySQL, PostgreSQL)
-- DBeaver
-- Tableau
 - Docker
-- C++
+- TypeScript
+- JavaScript
 - React
 
+I also made use of some **tools**, such as:
+
+- Metabase: Business Intelligence tool
+- Tableau
+- DBeaver: SQL client software application and a database administration tool
+- Insomnia: Desktop application for designing, debugging, and testing APIs
+- FileZilla: Open source file transfer protocol (FTP) software tool
+- MinIO: High-Performance, S3 compatible object store
+  
 These are just a few examples, and my skill set extends beyond these languages and tools. I am constantly learning and exploring new technologies to stay at the forefront of the data science field.
 
 ## Connect with me
