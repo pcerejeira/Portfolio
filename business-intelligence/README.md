@@ -8,11 +8,11 @@ Metabase is a powerful open-source tool that allows businesses to explore, visua
 
 Feel free to explore each project to gain insights into the problems addressed and the valuable insights obtained through Metabase's powerful visualization capabilities.
 
-1. [Project 1](./business-intelligence/project1): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
+1. [Project 1](./project1): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
 
-2. [Project 2](./business-intelligence/project2): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
+2. [Project 2](./project2): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
 
-3. [Project 3](./business-intelligence/project3): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
+3. [Project 3](./project3): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
 
 
 I hope you find the projects in this section informative and insightful. Metabase is a powerful tool that empowers organizations to unlock the value of their data and make informed decisions. Thank you for exploring this section, and I look forward to discussing how my expertise in Metabase and business intelligence can contribute to future data-driven endeavors.

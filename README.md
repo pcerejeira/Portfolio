@@ -12,7 +12,7 @@ Explore the various facets of my data science journey through the following sect
 
 - [Machine Learning](./machine-learning): Discover projects that demonstrate my expertise in machine learning, including classification, regression, clustering, and deep learning tasks.
 - [Metabase - Business Intelligence](./business-intelligence): Learn about my experience in leveraging Metabase for business intelligence purposes, creating interactive dashboards, and deriving insights from data.
-- [Data Analysis and Insights](./data-analysis-and-insights): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
+- [Data Analysis and Insights](./data-analysis): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
 - [AWS Projects](./aws): Explore my work involving Amazon Web Services (AWS), including data storage, data processing, and deploying scalable applications on the cloud.
 - [Database Management and Optimization](./database-management): Gain insights into my expertise in managing and optimizing databases, including SQL query optimization, performance tuning, and database administration.
 - [Frontend and UX Projects](./frontend-ux): Discover projects where I have collaborated on frontend development and user experience (UX) design, creating intuitive and visually appealing data-driven applications.
