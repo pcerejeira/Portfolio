@@ -10,7 +10,7 @@ Please note that the projects showcased in this section represent a subset of my
 
 Feel free to explore each project to gain insights into my experience and capabilities in utilizing AWS services to drive impactful solutions.
 
-1. [Project 1](./project1): Retrieve and store company data from a remote server using SFTP (Secure File Transfer Protocol) and AWS S3. Discover how this automated process enables efficient analysis of a company fleet routing."
+1. [Project 1](./project1): Retrieve and store company data from a remote server using SFTP (Secure File Transfer Protocol) and AWS S3. Discover how this automated process enables efficient analysis of a company fleet routing.
 
 
 I hope you find this section informative and witness the value of my knowledge and experience in leveraging AWS services.
