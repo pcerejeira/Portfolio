@@ -1,26 +1,48 @@
-# Project X
-
-Covered mainly:
-- Database Queries (1.5T size)
-- External API
-- Csv/Excel
-- Json
-- Pandas
-- Matplotlib
-
-Languages used:
-- SQL
-- Python
+# Project 1
 
 ## Context
-The objective...
+
+The objective of this project was of utmost importance for the marketing purposes and market expansion of the company. It aimed to analyze the relationship between the temperature of different battery components and the ambient temperature in which a vehicle operates. This analysis played a crucial role in determining the viability and effectiveness of the company's products in various geographic locations, including different countries with diverse climate conditions.
+
+Understanding the impact of ambient temperature on battery efficiency was vital for the company's marketing strategy. It allowed them to showcase the reliability and performance of their batteries even in extreme weather conditions such as scorching summers or freezing winters. By demonstrating that the batteries maintained regular and stable temperatures regardless of the ambient temperature, the company could confidently promote their products as suitable for a wide range of climates.
+
+Furthermore, the analysis provided valuable insights for the company's market expansion plans. By examining the data from different geographic locations, including countries with varying climate conditions such as Mexico and Nordic countries, the company could identify potential opportunities and challenges in those markets. It enabled them to adapt their marketing strategies, product offerings, and technical specifications to meet the specific requirements and demands of each region.
+
+## Analysis Approach
+
+The analysis involved the following steps:
+
+1. Data Retrieval: Raw data containing battery and environmental temperature measurements, as well as location coordinates, was fetched from the database using SQLAlchemy and the `fetch_by_identification` function.
+
+2. Data Preprocessing: The fetched data was processed using Pandas to rename columns and convert timestamps to appropriate formats. The data was also resampled based on a specified period to aggregate temperature readings.
+
+3. External API Integration: An external API from weather.com was utilized to fetch the ambient temperature for the corresponding location where the vehicle operated. The API provided information such as temperature, relative humidity, heat index, pressure, wind direction, gust speed, precipitation, and snow accumulation.
+
+4. Data Analysis and Visualization: The aggregated battery temperature data and the corresponding ambient temperature were analyzed using Pandas, Numpy, and Matplotlib. The analysis included computing min, max, and median temperatures for each battery component and comparing them with the ambient temperature. The data was visualized through line plots to observe trends and relationships between temperatures.
+
+## Covered mainly:
+
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- SQLAlchemy
+- External Api (https://api.weather.com)
+- Database Queries (1.5T table size)
 
 ## Solution
-EXPLAINING SOLUTION
 
-## Images (if applicable)
+The solution involved developing a Python script that implemented the analysis approach described above. The script utilized various libraries and modules, including Pandas, Numpy, Matplotlib, and SQLAlchemy, to retrieve, preprocess, analyze, and visualize the data.
 
+The script allowed for the flexibility to analyze temperature data for different batteries and battery components by specifying the vehicle identification and resampling period as input parameters. The generated plots were saved in the specified output path.
 
-### Disclaimer (if applicable):
+Please note that the code provided is a simplified representation and may require modifications and adaptations to work in different environments or with actual data.
 
+Feel free to explore the code, implementation details and some example results in the files inside the project's directory.
+
+---
+
+**Disclaimer:** The project code and related information in this portfolio showcase are for illustrative purposes only and may not be executable as standalone code.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/) to learn more about my background, experience, and potential collaboration opportunities.
 

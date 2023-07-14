@@ -1,4 +1,0 @@
-select registered_at, battery_min_temperature, battery_max_temperature, dci_temperature, load_controller_igbt_temperature_1, load_controller_igbt_temperature_2, motor_controller_igbt_temperature
-from vehicle_raw_data
-where registered_at >= 'xxxx-xx-xx' and registered_at < 'xxxx-xx-xx' and imei = 'xxxxxxxxx'
-order by registered_at asc

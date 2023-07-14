@@ -8,9 +8,9 @@ Please note that while some projects may include code snippets or visualizations
 
 ### Projects Showcased
 
-1. [Project 1](./project1): Description of the project and its context. Mention the dataset used, the problem or objective of the analysis, and the approach or solution adopted. Highlight any insights or findings derived from the analysis.
+1. [Project 1](./project1): Analyze the relationship between battery temperature and ambient conditions in vehicle operations to evaluate the impact of extreme temperatures on battery efficiency.
 
-2. [Project 2](./project2): Description of the project and its context. Mention the dataset used, the problem or objective of the analysis, and the approach or solution adopted. Highlight any insights or findings derived from the analysis.
+2. [Project 2](./project2): Evaluate the feasibility and cost-effectiveness of building new EV Charging locations based on the analysis of vehicle stop locations and their impact on client's fleet operations.
 
 3. [Project 3](./project3): Description of the project and its context. Mention the dataset used, the problem or objective of the analysis, and the approach or solution adopted. Highlight any insights or findings derived from the analysis.
 

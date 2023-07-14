@@ -6,11 +6,12 @@ from dateutil.relativedelta import relativedelta
 from datetime import datetime
 from datetime import timedelta
 import matplotlib.pyplot as plt
-from database import fetch_by_imei
+from database import fetch_by_identification
 import requests
 import numpy as np
+import os
 
-WEATHER_API_KEY = 'e1f10a1e78da46f5b10a1e78da96f525'
+WEATHER_API_KEY = os.environ.get('WEATHER_API_KEY')
 
 """
 Goal: Cross the temperature of different battery components with the ambient temperature.
@@ -189,7 +190,7 @@ def proj_1 (imei, resample_period, timestamp_start, timestamp_end, output_path='
         timestamp_begin = timestamp_aux - timedelta(days=5)
         if (timestamp_aux >= timestamp_end):
             timestamp_aux = timestamp_end
-        df = fetch_by_imei(imei, timestamp_begin, timestamp_aux, columns)
+        df = fetch_by_identification(imei, timestamp_begin, timestamp_aux, columns)
         df = read_vehicle_data(df, resample_period)
         timestamp_aux += timedelta(days=5)
         try:

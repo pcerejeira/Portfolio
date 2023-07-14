@@ -7,7 +7,7 @@ import boto3
 from flask import Response
 import os
 
-# Imported functions included in the end of this file for a simpler portfolio structure
+# Imported functions, that I implemented in other files, are included in the end of this file for a simpler portfolio structure
 # from utils.authenticate_sftp import authenticate_sftp 
 
 
@@ -19,8 +19,8 @@ jobs = [
         "client": "Client_X",  # Placeholder for the client identifier
         "method": {
             "sftp": {
-                "host": "sftp.example.com",  # Placeholder for the SFTP host
-                "username": "example_user",  # Placeholder for the SFTP username
+                "host": os.getenv("CLIENT_X_SFTP_HOST"),  # Placeholder for the SFTP host
+                "username": os.getenv("CLIENT_X_SFTP_USERNAME"),  # Placeholder for the SFTP username
                 "password": os.getenv("CLIENT_X_SFTP_PASSWORD"),  # Placeholder for the SFTP password
             }
         },
