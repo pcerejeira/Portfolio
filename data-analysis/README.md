@@ -14,7 +14,7 @@ Please note that while some projects may include code snippets or visualizations
 
 3. [Project 3](./project3): In Project 3, I addressed a critical concern raised by one of Addvolt's founders regarding significant fluctuations in generator current within a short timeframe. The aim was to identify these instances and prepare a comprehensive presentation for sharing with our partners and stakeholders. This project showcased our commitment to data-driven problem-solving and actionable insights.
 
-4. [Project 4](./project4)
+4. [Project 4](./project4): In this Project, I tackled an emerging challenge identified by our team leader surrounding the delays observed in our Custom Plot functionality. These lags, suspected to be induced by middlewares like "rate limiter" and "slowdown", were impacting user experience significantly. By reviewing and analyzing the API's performance over a specified period, we sought to pinpoint the causes and brainstorm potential solutions. This project exemplified our dedication to optimizing user interactions and ensuring seamless platform performance.
 
 
 I want to emphasize that in this section, I aim to showcase the diverse aspects of data analysis, including projects where the results may not be as visually appealing but still hold significant value. Data analysis is not just about beautiful visualizations but also about uncovering insights and making informed decisions based on the data.
