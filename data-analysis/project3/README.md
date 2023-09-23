@@ -24,7 +24,7 @@ This analysis successfully identified instances where generator current variatio
 
 These findings could be instrumental in diagnosing potential issues with the generator system, understanding their impact on vehicle performance, and implementing proactive measures to address such variations.
 
-I invite you to explore one presentation example, review the analysis, and draw your own conclusions. Please keep in mind that the data used in this example was generated for illustrative purposes and does not represent a real client use case.
+I invite you to explore one presentation example ([Presentation](./final_presentation_example.pptx), review the analysis, and draw your own conclusions. Please keep in mind that the data used in this example was generated for illustrative purposes and does not represent a real client use case.
 
 Please do not hesitate to reach out for further discussions or to delve deeper into the details of this project.
 
