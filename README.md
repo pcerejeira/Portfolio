@@ -29,10 +29,10 @@ Throughout my projects, I have worked with a diverse set of languages and tools.
 
 - Python
 - SQL (MySQL, PostgreSQL)
-- DBeaver
 - Tableau
+- Metabase
 - Docker
-- C++
+- Java
 - React
 
 These are just a few examples, and my skill set extends beyond these languages and tools. I am constantly learning and exploring new technologies to stay at the forefront of the data science field.
