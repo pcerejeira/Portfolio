@@ -9,9 +9,8 @@ I invite you to delve into these projects to witness the outcomes of my Master's
 ### Projects showcased:
 
 1. [Programming for Data Science](./programming-for-DS)
-2. [Project 2](./project2): Description of the project and its context. Discuss the challenges in database management, optimizations performed, and the results achieved. Include relevant code snippets or screenshots.
-
-3. [Project 3](./project3): Description of the project and its context. Discuss the challenges in database management, optimizations performed, and the results achieved. Include relevant code snippets or screenshots.
+2. [Data Mining](./data-mining)
+3. [Machine Learning](./machine-learning)
 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/) to learn more about my academic journey, experiences, and potential opportunities for collaboration and innovation. Thank you for taking the time to explore this section, and I look forward to discussing how my expertise can contribute to future data-driven endeavors.
