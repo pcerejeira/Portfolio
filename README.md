@@ -15,11 +15,13 @@ Explore the various facets of my data science journey through the following sect
 - [Data Analysis and Insights](./data-analysis): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
 - [AWS Projects](./aws): Explore my work involving Amazon Web Services (AWS), including data storage, data processing, and deploying scalable applications on the cloud.
 - [Database Management and Optimization](./database-management): Gain insights into my expertise in managing and optimizing databases, including SQL query optimization, performance tuning, and database administration.
-- [Frontend and UX Projects](./frontend-ux): Discover projects where I have collaborated on frontend development and user experience (UX) design, creating intuitive and visually appealing data-driven applications.
 - [Security, Vulnerability & Testing](./security-vulnerability-testing): Learn about my experience in conducting security assessments, identifying vulnerabilities, implementing measures to enhance data security, and performing comprehensive testing to ensure robustness and reliability.
 - [State of Health and Battery Health Metrics](./battery-health-SoH): Explore my work related to monitoring and analyzing the state of health and battery health metrics in various applications and devices.
-- [Grafana](./grafana): Discover projects showcasing my proficiency in building interactive dashboards and visualizations using Grafana.
-- [MLU Emulator](./mlu-emulator): Learn about my contributions to the MLU Emulator project, which involves emulating machine learning models on edge devices.
+- [Master's projects](./masters-projects): Here, you'll find a curated selection of projects that represent the culmination of my academic journey. These projects span various domains and showcase my expertise, innovation, and dedication. Explore this collection to get a glimpse of my skills and accomplishments during my Master's program (Data Science & Advanced Analytics)
+  
+Extra:
+- [Frontend and UX Projects](./frontend-ux): While not my primary focus in the realm of data science, I've also had the opportunity to delve into frontend development and user experience (UX) design. Despite it not being my main area of expertise or my favorite tasks, I was involved in some frontend projects. Here, you can explore my contributions to creating intuitive and visually appealing data-driven applications.
+ 
 
 ## Languages, Libraries and Tools
 
@@ -30,9 +32,11 @@ Throughout my projects, I have worked with a diverse set of **languages** and **
 - TensorFlow
 - Celery
 - SQL (MySQL, PostgreSQL)
+- Tableau
+- Metabase
 - Docker
-- TypeScript
-- JavaScript
+- Java
+
 - React
 
 I also made use of some **tools**, such as:

@@ -8,11 +8,13 @@ Please note that while some projects may include code snippets or visualizations
 
 ### Projects Showcased
 
-1. [Project 1](./project1): Description of the project and its context. Mention the dataset used, the problem or objective of the analysis, and the approach or solution adopted. Highlight any insights or findings derived from the analysis.
+1. [Project 1](./project1): Analyze the relationship between battery temperature and ambient conditions in vehicle operations to evaluate the impact of extreme temperatures on battery efficiency.
 
-2. [Project 2](./project2): Description of the project and its context. Mention the dataset used, the problem or objective of the analysis, and the approach or solution adopted. Highlight any insights or findings derived from the analysis.
+2. [Project 2](./project2): Evaluate the feasibility and cost-effectiveness of building new EV Charging locations based on the analysis of vehicle stop locations and their impact on client's fleet operations.
 
-3. [Project 3](./project3): Description of the project and its context. Mention the dataset used, the problem or objective of the analysis, and the approach or solution adopted. Highlight any insights or findings derived from the analysis.
+3. [Project 3](./project3): In Project 3, I addressed a critical concern raised by one of Addvolt's founders regarding significant fluctuations in generator current within a short timeframe. The aim was to identify these instances and prepare a comprehensive presentation for sharing with our partners and stakeholders. This project showcased our commitment to data-driven problem-solving and actionable insights.
+
+4. [Project 4](./project4): In this Project, I tackled an emerging challenge identified by our team leader surrounding the delays observed in our Custom Plot functionality. These lags, suspected to be induced by middlewares like "rate limiter" and "slowdown", were impacting user experience significantly. By reviewing and analyzing the API's performance over a specified period, we sought to pinpoint the causes and brainstorm potential solutions. This project exemplified our dedication to optimizing user interactions and ensuring seamless platform performance.
 
 
 I want to emphasize that in this section, I aim to showcase the diverse aspects of data analysis, including projects where the results may not be as visually appealing but still hold significant value. Data analysis is not just about beautiful visualizations but also about uncovering insights and making informed decisions based on the data.
