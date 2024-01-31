@@ -1,0 +1,4 @@
+select v.fk_deal, v.registered_at, v.latitude, v.longitude, v.is_in_facilities, v.vehicle_is_stopped
+from vehicle_operation_data_resampled_1min v, deal d
+where v.is_in_facilities = false and vehicle_is_stopped = true and v.fk_deal = d.id and d.fk_licensee = xxx
+order by v.fk_deal asc

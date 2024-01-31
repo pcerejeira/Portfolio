@@ -23,18 +23,31 @@ Extra:
 - [Frontend and UX Projects](./frontend-ux): While not my primary focus in the realm of data science, I've also had the opportunity to delve into frontend development and user experience (UX) design. Despite it not being my main area of expertise or my favorite tasks, I was involved in some frontend projects. Here, you can explore my contributions to creating intuitive and visually appealing data-driven applications.
  
 
-## Languages and Tools
+## Languages, Libraries and Tools
 
-Throughout my projects, I have worked with a diverse set of languages and tools. Some of the key ones include:
+Throughout my projects, I have worked with a diverse set of **languages** and **libraries**. Some of the key ones include:
 
 - Python
+- Pandas | Numpy | Matplotlib
+- TensorFlow
+- Celery
 - SQL (MySQL, PostgreSQL)
 - Tableau
 - Metabase
 - Docker
 - Java
+
 - React
 
+I also made use of some **tools**, such as:
+
+- Metabase: Business Intelligence tool
+- Tableau
+- DBeaver: SQL client software application and a database administration tool
+- Insomnia: Desktop application for designing, debugging, and testing APIs
+- FileZilla: Open source file transfer protocol (FTP) software tool
+- MinIO: High-Performance, S3 compatible object store
+  
 These are just a few examples, and my skill set extends beyond these languages and tools. I am constantly learning and exploring new technologies to stay at the forefront of the data science field.
 
 ## Connect with me
