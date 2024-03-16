@@ -11,12 +11,8 @@ In this portfolio, I aim to demonstrate not only my proficiency in data science 
 Explore the various facets of my data science journey through the following sections:
 
 - [Machine Learning](./machine-learning): Discover projects that demonstrate my expertise in machine learning, including classification, regression, clustering, and deep learning tasks.
-- [Metabase - Business Intelligence](./business-intelligence): Learn about my experience in leveraging Metabase for business intelligence purposes, creating interactive dashboards, and deriving insights from data.
 - [Data Analysis and Insights](./data-analysis): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
 - [AWS Projects](./aws): Explore my work involving Amazon Web Services (AWS), including data storage, data processing, and deploying scalable applications on the cloud.
-- [Database Management and Optimization](./database-management): Gain insights into my expertise in managing and optimizing databases, including SQL query optimization, performance tuning, and database administration.
-- [Security, Vulnerability & Testing](./security-vulnerability-testing): Learn about my experience in conducting security assessments, identifying vulnerabilities, implementing measures to enhance data security, and performing comprehensive testing to ensure robustness and reliability.
-- [State of Health and Battery Health Metrics](./battery-health-SoH): Explore my work related to monitoring and analyzing the state of health and battery health metrics in various applications and devices.
 - [Master's projects](./masters-projects): Here, you'll find a curated selection of projects that represent the culmination of my academic journey. These projects span various domains and showcase my expertise, innovation, and dedication. Explore this collection to get a glimpse of my skills and accomplishments during my Master's program (Data Science & Advanced Analytics)
   
 Extra:
