@@ -96,7 +96,7 @@ def read_vehicle_data(df, resample_period):
                        "load_controller_temperature": "lc_temp", "battery_min_temperature": "battery_min_t", "battery_max_temperature": "battery_max_t", 
                        "registered_at": "time", "mlu_temperature": "mlu_temp", "fibo_choke_temperature": "fibo_choke_temp", 
                        "fibo_pcb_temperature": "fibo_pcb_temp"}, inplace = True)
-    # using agrregate to fetch min, max and median data, resampled by variable "resample_period"
+    # using aggregate to fetch min, max and median data, resampled by variable "resample_period"
     grouped = df.groupby(pd.Grouper(freq = str(resample_period), key='time'))
     try:
         df = grouped.apply(aggregate)
