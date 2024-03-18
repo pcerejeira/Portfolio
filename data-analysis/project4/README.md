@@ -30,5 +30,5 @@ If you have any questions, wish to discuss the findings further, or delve into a
 
 **Disclaimer:** The details presented in this portfolio highlight are for demonstrative purposes and may not reflect a real-world scenario. The datasets used here are fabricated examples.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/) to learn more about my background, experience, and potential collaboration opportunities.
+Visit [pcerejeira.com](https://pcerejeira.com) to explore more about my journey & feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/)!
 
