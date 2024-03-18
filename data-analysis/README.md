@@ -20,4 +20,5 @@ Please note that while some projects may include code snippets or visualizations
 I want to emphasize that in this section, I aim to showcase the diverse aspects of data analysis, including projects where the results may not be as visually appealing but still hold significant value. Data analysis is not just about beautiful visualizations but also about uncovering insights and making informed decisions based on the data.
 
 ## Connect with me
+
 Visit [pcerejeira.com](https://pcerejeira.com) to explore more about my journey & feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/)!
