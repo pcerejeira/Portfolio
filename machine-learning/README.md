@@ -20,4 +20,5 @@ Join me as I explore the world of Machine Learning and its diverse applications.
 I hope you find this section informative and witness my enthusiasm for Machine Learning. I expect to be updating it regularly with new projects.
 
 ## Connect with me
+
 Visit [pcerejeira.com](https://pcerejeira.com) to explore more about my journey & feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/)!
