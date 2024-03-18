@@ -6,10 +6,6 @@ Welcome to the Business Intelligence section of my Portfolio! In this section, I
 
 1. [Project 1](./project1): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
 
-2. [Project 2](./project2): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
-
-3. [Project 3](./project3): Description of the project and its context. Include relevant information about the dataset used, the problem statement, and the business goals. Showcase screenshots or visualizations from the Metabase dashboard to demonstrate the insights derived.
-
 Thank you for exploring this section, and I look forward to discussing how my expertise in Business Intelligence can contribute to future data-driven endeavors.
 
 ## Connect with me
