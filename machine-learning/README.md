@@ -1,4 +1,4 @@
-## Machine Learning
+# Machine Learning
 
 Welcome to the Machine Learning section of my Portfolio!
 
@@ -8,7 +8,7 @@ Within this section, you'll find a variety of projects that showcase my journey 
 
 Join me as I explore the world of Machine Learning and its diverse applications.
 
-### Projects showcased:
+## Projects showcased:
 
 1. [Project 1](./project1): Description of the project and its context. Highlight the machine learning techniques, methodologies, and algorithms used, as well as the problem statement and the results achieved.
 
@@ -19,4 +19,5 @@ Join me as I explore the world of Machine Learning and its diverse applications.
 
 I hope you find this section informative and witness my enthusiasm for Machine Learning. I expect to be updating it regularly with new projects.
 
+## Connect with me
 Visit [pcerejeira.com](https://pcerejeira.com) to explore more about my journey & feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/)!
