@@ -19,7 +19,7 @@ The analysis involved the following steps:
 
 4. Data Analysis and Visualization: The aggregated battery temperature data and the corresponding ambient temperature were analyzed using Pandas and Matplotlib. The analysis included computing min, max, and median temperatures for each battery component and comparing them with the ambient temperature. The data was visualized through line plots to observe trends and relationships between temperatures.
 
-## Covered mainly:
+## Covered mainly
 
 - Python
 - Pandas
