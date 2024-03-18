@@ -14,7 +14,6 @@ Explore the various facets of my data science journey through the following sect
 
 - [Machine Learning](./machine-learning): Discover projects that demonstrate my expertise in machine learning, including classification, regression, clustering, and deep learning tasks.
 - [Data Analysis and Insights](./data-analysis): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
-- [Master's projects](./masters-projects): Here, you'll find a curated selection of projects that represent the culmination of my academic journey. These projects span various domains and showcase my expertise, innovation, and dedication. Explore this collection to get a glimpse of my skills and accomplishments during my Master's program (Data Science & Advanced Analytics).
 
 ## Connect with me
 
