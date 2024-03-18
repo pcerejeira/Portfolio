@@ -22,7 +22,7 @@ The algorithm involves the following steps:
 
 7. **Modeling:** Utilizing diverse machine learning algorithms, we optimized hyperparameters to maximize F1 scores, ensuring robust predictive performance.
 
-For a detailed explanation of each step, please refer to the [report](/report.pdf) available in this GitHub repository.
+For a detailed explanation of each step, please refer to the [report](/machine-learning/project1/report.pdf) available in this GitHub repository.
 
 ## Covered mainly
 
