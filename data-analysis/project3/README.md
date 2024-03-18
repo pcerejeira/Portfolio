@@ -32,5 +32,5 @@ Please do not hesitate to reach out for further discussions or to delve deeper i
 
 **Disclaimer:** The project code and related information in this portfolio showcase are for illustrative purposes only and may not be executable as standalone code. Random datasets were generated as examples for the portfolio.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/) to learn more about my background, experience, and potential collaboration opportunities.
+Visit [pcerejeira.com](https://pcerejeira.com) to explore more about my journey & feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/)!
 
