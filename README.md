@@ -14,9 +14,7 @@ Explore the various facets of my data science journey through the following sect
 
 - [Machine Learning](./machine-learning): Discover projects that demonstrate my expertise in machine learning, including classification, regression, clustering, and deep learning tasks.
 - [Data Analysis and Insights](./data-analysis): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
-- [AWS Projects](./aws): Explore my work involving Amazon Web Services (AWS), including data storage, data processing, and deploying scalable applications on the cloud.
 - [Master's projects](./masters-projects): Here, you'll find a curated selection of projects that represent the culmination of my academic journey. These projects span various domains and showcase my expertise, innovation, and dedication. Explore this collection to get a glimpse of my skills and accomplishments during my Master's program (Data Science & Advanced Analytics).
-- [Frontend and UX Projects](./frontend-ux): While not my primary focus in the realm of data science, I've also had the opportunity to delve into frontend development and user experience (UX) design. Despite it not being my main area of expertise or my favorite tasks, I was involved in some frontend projects. Here, you can explore my contributions to creating intuitive and visually appealing data-driven applications.
 
 ## Connect with me
 
