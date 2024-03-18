@@ -3,12 +3,10 @@ from database import session, Deal
 import pandas as pd
 import json
 from dateutil.relativedelta import relativedelta
-from datetime import datetime
 from datetime import timedelta
 import matplotlib.pyplot as plt
 from database import fetch_by_identification
 import requests
-import numpy as np
 import os
 
 WEATHER_API_KEY = os.environ.get('WEATHER_API_KEY')
@@ -32,6 +30,16 @@ Documentation: https://weather.com/swagger-docs/ui/sun/v1/sunV1Site-BasedObserva
 """
 
 def aggregate(group):
+    """
+    Aggregate temperature data from a group.
+
+    Parameters:
+        group (pandas.DataFrame): A DataFrame containing vehicle data.
+
+    Returns:
+        pandas.DataFrame: Aggregated vehicle data.
+    """
+
     agg = {
         'imei': group.imei.iloc[0],
         'time': group.time.iloc[0],
@@ -87,6 +95,17 @@ def aggregate(group):
     return pd.DataFrame(agg, index=[0])
 
 def read_vehicle_data(df, resample_period):
+    """
+    Read and aggregate vehicle data.
+
+    Parameters:
+        df (pandas.DataFrame): DataFrame containing raw vehicle data.
+        resample_period (str): The resample period for aggregating data.
+
+    Returns:
+        pandas.DataFrame: Aggregated vehicle data.
+    """
+
     df["registered_at"] = pd.to_datetime(df["registered_at"])
     df.rename(columns={"motor_controller_temperature": "mc_temp", "motor_controller_xmc_temperature": "mc_xmc_temp", 
                        "motor_controller_power_supply_temperature": "mc_power_supply_temp", "motor_controller_igbt_temperature": "mc_igbt_temp",
@@ -105,6 +124,16 @@ def read_vehicle_data(df, resample_period):
         return 
 
 def read_temp_data(df):
+    """
+    Read and clean temperature data from an external API.
+
+    Parameters:
+        df (pandas.DataFrame): DataFrame containing vehicle data.
+
+    Returns:
+        pandas.DataFrame: Cleaned temperature data.
+    """
+
     df.reset_index(inplace=True, drop = True)
     # getting all unique days in the fetched data
     unique_days = df["time"].dt.date.unique()
@@ -139,6 +168,17 @@ def read_temp_data(df):
     return df_aid
 
 def plot_battery_t(df, imei):
+    """
+    Plot battery temperatures over time.
+
+    Parameters:
+        df (pandas.DataFrame): DataFrame containing battery temperature data.
+        imei (str): IMEI number of the vehicle.
+
+    Returns:
+        None
+    """
+
     df['hour'] = pd.to_datetime(df['hour'])
     plt.figure(figsize=(20,5))
     plt.title("Imei " + str(imei) + " Battery Temperatures")
@@ -162,6 +202,18 @@ def plot_battery_t(df, imei):
         plt.axvspan(aux, df["time"][len(df) - 1], facecolor='0.6', alpha=0.5)
 
 def plot_controller_t(df, imei, controller):
+    """
+    Plot controller temperatures over time.
+
+    Parameters:
+        df (pandas.DataFrame): DataFrame containing controller temperature data.
+        imei (str): IMEI number of the vehicle.
+        controller (str): Name of the controller.
+
+    Returns:
+        None
+    """
+
     df['hour'] = pd.to_datetime(df['hour'])
     plt.figure(figsize=(20,5))
     plt.title(f"IMEI {str(imei)} {controller} Temperatures")
@@ -185,10 +237,23 @@ def plot_controller_t(df, imei, controller):
         plt.axvspan(aux, df["time"][len(df) - 1], facecolor='0.6', alpha=0.5)
 
 def proj_1 (imei, resample_period, timestamp_start, timestamp_end, output_path='/temp'):
+    """
+    Perform temperature analysis and visualization for a vehicle.
+
+    Parameters:
+        imei (str): IMEI number of the vehicle.
+        resample_period (str): The resample period for aggregating data.
+        timestamp_start (datetime): Start timestamp for data fetching.
+        timestamp_end (datetime): End timestamp for data fetching.
+        output_path (str, optional): Output path for saving visualizations.
+
+    Returns:
+        None
+    """
+
     df_all = pd.DataFrame()
-    """
-    Parameters for fetching data
-    """
+
+    # Parameters for fetching data
     columns = ["imei", "registered_at", "battery_min_temperature", "battery_max_temperature", "load_controller_temperature", "load_controller_xmc_temperature", "load_controller_power_supply_temperature", "load_controller_igbt_temperature_1", "load_controller_igbt_temperature_2", "motor_controller_temperature", "motor_controller_xmc_temperature", "motor_controller_power_supply_temperature", "motor_controller_igbt_temperature", "motor_controller_motor_temperature", "dci_temperature", "mlu_temperature", "latitude", "longitude", "mlu_temperature", "fibo_choke_temperature", "fibo_pcb_temperature"]
 
     # Fetching raw data, 5 days each time (from "timestamp_start" until "timestamp_end")
@@ -217,7 +282,7 @@ def proj_1 (imei, resample_period, timestamp_start, timestamp_end, output_path='
     # Also selecting only day, in order to iterate through time later
     df["day"] = df["time"].astype('string').str.slice(0, 10)
 
-    # Read historical temperature data
+    # Read historical temperature data and joining the ambient data with the vehicle data
     df_aid = read_temp_data(df)
     df = df.set_index('hour').join(df_aid.set_index('valid_time_gmt_hour'))
     df.reset_index(inplace = True)
