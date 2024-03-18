@@ -34,5 +34,5 @@ Please feel free to reach out to me for further discussions and to explore the d
 
 **Disclaimer:** The project code and related information in this portfolio showcase are for illustrative purposes only and may not be executable as standalone code. Random locations where generated as example for the portfolio.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/) to learn more about my background, experience, and potential collaboration opportunities.
+Visit [pcerejeira.com](https://pcerejeira.com) to explore more about my journey & feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/)!
 
