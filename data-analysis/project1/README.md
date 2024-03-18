@@ -1,4 +1,4 @@
-# Project 1
+# Battery Efficiency: Analyzing battery behavior on extreme conditions
 
 ## Context
 
