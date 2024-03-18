@@ -11,13 +11,13 @@ Understanding the impact of ambient temperature on battery efficiency allowed Ad
 
 The analysis involved the following steps:
 
-1. Data Retrieval: Raw data containing battery and vehicle data, as well as location coordinates, was fetched from the database using SQLAlchemy and the `fetch_by_identification` function.
+1. **Data Retrieval:** Raw data containing battery and vehicle data, as well as location coordinates, was fetched from the database using SQLAlchemy and the `fetch_by_identification` function.
 
-2. Data Preprocessing: The fetched data was processed using Pandas to rename columns and convert timestamps to appropriate formats. The data was also resampled based on a specified period to aggregate temperature readings.
+2. **Data Preprocessing:** The fetched data was processed using Pandas to rename columns and convert timestamps to appropriate formats. The data was also resampled based on a specified period to aggregate temperature readings.
 
-3. External API Integration: An external API from weather.com was utilized to fetch the ambient temperature for the corresponding location where the vehicle operated. The API provided information such as temperature, relative humidity, heat index, pressure, wind direction, gust speed, precipitation, and snow accumulation.
+3. **External API Integration:** An external API from weather.com was utilized to fetch the ambient temperature for the corresponding location where the vehicle operated. The API provided information such as temperature, relative humidity, heat index, pressure, wind direction, gust speed, precipitation, and snow accumulation.
 
-4. Data Analysis and Visualization: The aggregated battery temperature data and the corresponding ambient temperature were analyzed using Pandas and Matplotlib. The analysis included computing min, max, and median temperatures for each battery component and comparing them with the ambient temperature. The data was visualized through line plots to observe trends and relationships between temperatures.
+4. **Data Analysis and Visualization:** The aggregated battery temperature data and the corresponding ambient temperature were analyzed using Pandas and Matplotlib. The analysis included computing min, max, and median temperatures for each battery component and comparing them with the ambient temperature. The data was visualized through line plots to observe trends and relationships between temperatures.
 
 ## Covered mainly
 
