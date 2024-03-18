@@ -14,6 +14,7 @@ Explore the various facets of my data science journey through the following sect
 
 - [Machine Learning](./machine-learning): Discover projects that demonstrate my expertise in machine learning, including classification, regression, clustering, and deep learning tasks.
 - [Data Analysis and Insights](./data-analysis): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
+- [Business Intelligence](./business-intelligence): Explore projects related to Business Intelligence, including data visualization, dashboarding, and reporting for informed decision-making.
 
 ## Connect with me
 
