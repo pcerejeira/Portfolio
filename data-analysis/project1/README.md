@@ -17,7 +17,7 @@ The analysis involved the following steps:
 
 3. External API Integration: An external API from weather.com was utilized to fetch the ambient temperature for the corresponding location where the vehicle operated. The API provided information such as temperature, relative humidity, heat index, pressure, wind direction, gust speed, precipitation, and snow accumulation.
 
-4. Data Analysis and Visualization: The aggregated battery temperature data and the corresponding ambient temperature were analyzed using Pandas, Numpy, and Matplotlib. The analysis included computing min, max, and median temperatures for each battery component and comparing them with the ambient temperature. The data was visualized through line plots to observe trends and relationships between temperatures.
+4. Data Analysis and Visualization: The aggregated battery temperature data and the corresponding ambient temperature were analyzed using Pandas and Matplotlib. The analysis included computing min, max, and median temperatures for each battery component and comparing them with the ambient temperature. The data was visualized through line plots to observe trends and relationships between temperatures.
 
 ## Covered mainly:
 
@@ -30,7 +30,7 @@ The analysis involved the following steps:
 
 ## Solution
 
-The solution involved developing a Python script that implemented the analysis approach described above. The script utilized various libraries and modules, including Pandas, Numpy, Matplotlib, and SQLAlchemy, to retrieve, preprocess, analyze, and visualize the data.
+The solution involved developing a Python script that implemented the analysis approach described above. The script utilized various libraries and modules, including Pandas, Matplotlib, and SQLAlchemy, to retrieve, preprocess, analyze, and visualize the data.
 
 The script allowed for the flexibility to analyze temperature data for different batteries and battery components by specifying the vehicle identification and resampling period as input parameters. The generated plots were saved in the specified output path.
 
