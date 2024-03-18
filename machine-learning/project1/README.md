@@ -4,35 +4,45 @@
 
 The objective of this project is to develop classification models for predicting hospital readmissions. Hospital readmissions are a critical concern in healthcare, impacting both patient outcomes and healthcare costs. By accurately predicting readmissions, healthcare providers can implement preventive measures and tailor post-discharge care to reduce readmission rates and improve patient care.
 
-## Analysis Approach
+## Approach
 
-The analysis involves the following steps:
+The algorithm involves the following steps:
 
-1. **Data Collection:** Raw data containing patient demographics, medical history, and discharge information is retrieved from healthcare databases.
+1. **Data Exploration & Visualization:** We begin by exploring and visualizing the dataset to understand its structure and identify key patterns and trends.
 
-2. **Data Preprocessing:** The fetched data is preprocessed to handle missing values, encode categorical variables, and normalize numerical features.
+2. **Data Split:** We split our data into training and validation sets.
 
-3. **Model Development:** Classification models are developed using machine learning algorithms such as logistic regression, decision trees, and random forests. The primary model predicts whether a patient will be readmitted within 30 days of discharge, while a secondary model classifies patients into categories based on the timeframe of readmission.
+3. **Pre-processing:** In this step, we handled duplicates, missing values, outliers, and aggregated categories, between others, to ensure the quality and integrity of the data.
 
-4. **Model Evaluation:** The performance of the models is evaluated using metrics such as accuracy, precision, recall, and F1-score. Cross-validation techniques are employed to ensure robustness and generalizability.
+4. **Feature Engineering:** Creating new variables from existing ones to improve the robustness of the model. Additionally, we encoded categorical variables and scaled numerical features to ensure uniformity and compatibility across different algorithms.
+
+5. **Feature Selection:** Reducing the dataset complexity to identify the variables that most contribute to the predictions. 
+
+6. **Resampling:** We experimented with both oversampling and undersampling techniques to address class imbalance and enhance the model's performance on minority classes.
+
+7. **Modeling:** Utilizing diverse machine learning algorithms, we optimized hyperparameters to maximize F1 scores, ensuring robust predictive performance.
+
+For a detailed explanation of each step, please refer to the [report](/report.pdf) available in this GitHub repository.
 
 ## Technologies Used
 
 - Python
-- Pandas
 - Scikit-learn
+- Pandas
+- NumPy
 - Matplotlib
-- Jupyter Notebook
+- Seaborn
+- Imbalanced-learn (imblearn)
 
 ## Solution
 
-The solution involves developing Python scripts and Jupyter Notebooks to implement the analysis approach described above. These scripts utilize various libraries and modules, including Pandas for data manipulation, Scikit-learn for model development, and Matplotlib for visualization.
+The solution provided accurate predictive models for hospital readmissions, enabling healthcare providers to identify patients at risk of readmission and implement timely interventions to improve patient outcomes. By leveraging machine learning techniques and comprehensive data analysis, the solution empowered healthcare organizations to optimize resource allocation, reduce healthcare costs, and enhance the quality of patient care.
 
-The developed models provide valuable insights for healthcare providers to identify patients at risk of readmission and tailor interventions accordingly. By leveraging predictive analytics, healthcare organizations can optimize resource allocation, reduce healthcare costs, and improve patient outcomes.
+**Please note that while you should be able to find all we tested and implemented in the code, some sections may be commented out due to reasons such as not being used or being too time-consuming to execute. Additionally, the final output is the report, so the code may include observations, comments, or code snippets that are not fully cleaned or optimized for presentation purposes.**
 
-Please note that the code provided serves as a demonstration and may require adjustments for specific healthcare environments and datasets.
+Feel free to explore the code, report, and the dataset in the files within the project directory.
 
-Feel free to explore the code, implementation details, and example results in the files within the project directory.
+
 
 ---
 
