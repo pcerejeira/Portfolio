@@ -17,7 +17,7 @@ Join me as I explore the world of Machine Learning and its diverse applications.
 3. [Project 3](./project3): Description of the project and its context. Highlight the machine learning techniques, methodologies, and algorithms used, as well as the problem statement and the results achieved.
 
 
-I hope you find this section informative and witness my enthusiasm for Machine Learning. I expect to be updating it regularly with new projects.
+I hope you find this section informative and witness my enthusiasm for this field. I expect to be updating it regularly with new projects.
 
 ## Connect with me
 
