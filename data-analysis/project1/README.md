@@ -23,7 +23,6 @@ The analysis involved the following steps:
 
 - Python
 - Pandas
-- Numpy
 - Matplotlib
 - SQLAlchemy
 - External Api (https://api.weather.com)
