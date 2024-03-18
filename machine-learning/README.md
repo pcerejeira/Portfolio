@@ -1,10 +1,12 @@
 ## Machine Learning
 
-Welcome to the Machine Learning section of my Data Science Portfolio! This section is dedicated to showcasing my academic studies, research, and projects related to Machine Learning.
+Welcome to the Machine Learning section of my Portfolio!
 
-Machine Learning has always fascinated me, and I am continuously expanding my knowledge and experience in this field. Currently pursuing my Master's in Data Science with a focus on Machine Learning, I am actively engaged in exploring the latest advancements and applying them to real-world problems.
+Machine Learning is a field that has always intrigued me, and I am dedicated to continually expanding my expertise and experience within it.
 
-Please note that the projects showcased in this section primarily focus on academic studies, research, and projects as I continue to develop my knowledge and experience in Machine Learning. They represent my dedication to exploring the potential of Machine Learning and its impact in various domains.
+Within this section, you'll find a variety of projects that showcase my journey through the realm of Machine Learning. These projects may include academic endeavors, reflecting the focus of my Master's degree on this area of study.
+
+Join me as I explore the world of Machine Learning and its diverse applications.
 
 ### Projects showcased:
 
@@ -15,9 +17,6 @@ Please note that the projects showcased in this section primarily focus on acade
 3. [Project 3](./project3): Description of the project and its context. Highlight the machine learning techniques, methodologies, and algorithms used, as well as the problem statement and the results achieved.
 
 
-I expect to be updating this section regularly with new projects and tasks that I will be challenged with in my academic journey.
+I hope you find this section informative and witness my enthusiasm for Machine Learning. I expect to be updating it regularly with new projects.
 
-I hope you find this section informative and witness my enthusiasm for Machine Learning.
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/) to learn more about my academic background, research interests, and potential collaboration opportunities.
-
+Visit [pcerejeira.com](https://pcerejeira.com) to explore more about my journey & feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/)!
