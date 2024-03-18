@@ -1,4 +1,4 @@
-# Healthcare Project: Predicting Hospital Readmissions
+# Ready to be discharged: Predicting hospital readmissions
 
 ## Context
 
