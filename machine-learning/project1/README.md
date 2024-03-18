@@ -48,4 +48,4 @@ Feel free to explore the code, report, and the dataset in the files within the p
 
 **Disclaimer:** The project code and related information in this portfolio showcase are for illustrative purposes only and may or may not be executable as standalone code.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) to learn more about my background, experience, and potential collaboration opportunities.
+Visit [pcerejeira.com](https://pcerejeira.com) to explore more about my journey & feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/)!
