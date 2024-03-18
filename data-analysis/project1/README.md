@@ -2,17 +2,16 @@
 
 ## Context
 
-The objective of this project was of utmost importance for the marketing purposes and market expansion of the company. It aimed to analyze the relationship between the temperature of different battery components and the ambient temperature in which a vehicle operates. This analysis played a crucial role in determining the viability and effectiveness of the company's products in various geographic locations, including different countries with diverse climate conditions.
+The objective of this project was of utmost importance for Addvolt's marketing purposes and market expansion. It aimed to analyze the relationship between the temperature of different battery components and the ambient temperature in which a vehicle operates. This analysis played a crucial role in determining the viability and effectiveness of Addvolt's products in various geographic locations, including different countries with diverse climate conditions.
 
-Understanding the impact of ambient temperature on battery efficiency was vital for the company's marketing strategy. It allowed them to showcase the reliability and performance of their batteries even in extreme weather conditions such as scorching summers or freezing winters. By demonstrating that the batteries maintained regular and stable temperatures regardless of the ambient temperature, the company could confidently promote their products as suitable for a wide range of climates.
+Understanding the impact of ambient temperature on battery efficiency allowed Addvolt to showcase the reliability and performance of their batteries even in extreme weather conditions such as scorching summers or freezing winters. By demonstrating that the batteries maintained regular and stable temperatures regardless of the ambient temperature, the Startup could confidently promote their products as suitable for a wide range of climates.
 
-Furthermore, the analysis provided valuable insights for the company's market expansion plans. By examining the data from different geographic locations, including countries with varying climate conditions such as Mexico and Nordic countries, the company could identify potential opportunities and challenges in those markets. It enabled them to adapt their marketing strategies, product offerings, and technical specifications to meet the specific requirements and demands of each region.
 
 ## Analysis Approach
 
 The analysis involved the following steps:
 
-1. Data Retrieval: Raw data containing battery and environmental temperature measurements, as well as location coordinates, was fetched from the database using SQLAlchemy and the `fetch_by_identification` function.
+1. Data Retrieval: Raw data containing battery and vehicle data, as well as location coordinates, was fetched from the database using SQLAlchemy and the `fetch_by_identification` function.
 
 2. Data Preprocessing: The fetched data was processed using Pandas to rename columns and convert timestamps to appropriate formats. The data was also resampled based on a specified period to aggregate temperature readings.
 
