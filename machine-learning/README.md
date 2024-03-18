@@ -10,7 +10,7 @@ Join me as I explore the world of Machine Learning and its diverse applications.
 
 ## Projects showcased:
 
-1. [Project 1](./project1): Description of the project and its context. Highlight the machine learning techniques, methodologies, and algorithms used, as well as the problem statement and the results achieved.
+1. [Project 1](./project1): This project aims to develop classification models for predicting hospital readmissions. These models offer valuable insights for healthcare providers to implement preventive measures and customize post-discharge care accordingly.
 
 2. [Project 2](./project2): Description of the project and its context. Highlight the machine learning techniques, methodologies, and algorithms used, as well as the problem statement and the results achieved.
 
