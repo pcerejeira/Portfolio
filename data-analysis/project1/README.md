@@ -40,7 +40,7 @@ Feel free to explore the code, implementation details and some example results i
 
 ---
 
-**Disclaimer:** The project code and related information in this portfolio showcase are for illustrative purposes only and may not be executable as standalone code.
+**Disclaimer:** The project code and related information in this portfolio showcase are for illustrative purposes only and may or may not be executable as standalone code.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedrocerejeira/) to learn more about my background, experience, and potential collaboration opportunities.
 
