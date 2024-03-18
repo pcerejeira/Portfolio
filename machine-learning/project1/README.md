@@ -24,7 +24,7 @@ The algorithm involves the following steps:
 
 For a detailed explanation of each step, please refer to the [report](/report.pdf) available in this GitHub repository.
 
-## Technologies Used
+## Covered mainly
 
 - Python
 - Scikit-learn
