@@ -36,7 +36,7 @@ The script allowed for the flexibility to analyze temperature data for different
 
 Please note that the code provided is a simplified representation and may require modifications and adaptations to work in different environments or with actual data.
 
-Feel free to explore the code, implementation details and some example results in the files inside the project's directory.
+Feel free to explore the code, implementation details and some outputs in the files inside the project's directory.
 
 ---
 
