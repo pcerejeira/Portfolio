@@ -14,7 +14,7 @@ Explore the various facets of my data science journey through the following sect
 
 - [Machine Learning](./machine-learning): Discover projects that demonstrate my expertise in machine learning, including classification, regression, clustering, and deep learning tasks.
 - [Data Analysis and Insights](./data-analysis): Dive into projects where I have conducted exploratory data analysis, performed statistical analysis, and derived actionable insights from diverse datasets.
-- [Business Intelligence](./business-intelligence): Explore projects related to Business Intelligence, including data visualization, dashboarding, and reporting for informed decision-making.
+- [Business Intelligence](./business-intelligence): Building...
 
 I hope you enjoy exploring my Portfolio Repository and witness the transformative power of data in action. Thank you for joining me on this journey, and I look forward to discussing how my expertise can contribute to future data-driven endeavors.
 
